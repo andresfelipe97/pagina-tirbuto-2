@@ -1,0 +1,47 @@
+* {
+  background-color: black;
+  font-family: "Itim", cursive;
+  color: azure;
+  margin: 5px;
+  padding: 5px;
+}
+
+.img-div {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  position: relative;
+  height: 400px;
+  width: 400px;
+}
+
+.container {
+  padding: 10px;
+}
+
+.contenido {
+  padding: 5%;
+  text-align: justify;
+  box-shadow: 20px 20px 20px #230373;
+  font-family: Georgia;
+  padding: 25px 25px;
+  margin: 11px;
+}
+
+.titulo {
+  text-align: center;
+}
+.titulo-2 {
+  text-align: center;
+}
+.contenido p {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pieDePag a {
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
